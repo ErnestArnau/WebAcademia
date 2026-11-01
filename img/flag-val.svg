@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 500">
+  <!-- Red and yellow stripes (Senyera) -->
+  <rect width="750" height="500" fill="#FCDD09"/>
+  <rect y="55.56" width="750" height="55.56" fill="#DA121A"/>
+  <rect y="166.67" width="750" height="55.56" fill="#DA121A"/>
+  <rect y="277.78" width="750" height="55.56" fill="#DA121A"/>
+  <rect y="388.89" width="750" height="55.56" fill="#DA121A"/>
+  <!-- Blue stripe on the left -->
+  <rect width="125" height="500" fill="#0039A6"/>
+</svg>
